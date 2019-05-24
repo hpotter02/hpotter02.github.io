@@ -12,6 +12,7 @@ html, body {
 	top: 0;
 	justify-content: center;
 	align-items: center;
+	overflow: hidden;
 }
 
 #otter {
